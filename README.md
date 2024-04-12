@@ -2,9 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
 - 🌱 I’m currently learning **React using Ruby on Rails**
-
 - 👨‍💻 All of my projects are available at [quirogafacundo.com](quirogafacundo.com)
-
 - 📫 How to reach me **contacto@quirogafacundo.com**
 
 <h3 align="left">Connect with me:</h3>
