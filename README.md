@@ -1,9 +1,9 @@
 <h1 align="center">Facundo Quiroga</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">A passionate fullstack developer from Argentina living in Austin, Texas</h3>
 
-- 🌱 I’m currently learning **React using Ruby on Rails**
-- 👨‍💻 All of my projects are available at [quirogafacundo.com](quirogafacundo.com)
-- 📫 How to reach me **contacto@quirogafacundo.com**
+- 🌱 I’m currently focused on **React using Ruby on Rails**
+- 👨‍💻 My projects are available at [quirogafacundo.com](quirogafacundo.com)
+- 📫 Contact me at **contacto@quirogafacundo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
