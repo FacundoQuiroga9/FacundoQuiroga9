@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently focused on **React using Ruby on Rails**
 - 👨‍💻 My projects are available at [quirogafacundo.com](quirogafacundo.com)
-- 📫 Contact me at **contacto@quirogafacundo.com**
+- 📫 Contact me at **contact@quirogafacundo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
