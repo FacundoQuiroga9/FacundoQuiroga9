@@ -1,5 +1,5 @@
 <h1 align="center">Facundo Quiroga</h1>
-<h3 align="center">A passionate fullstack developer from Argentina living in Austin, Texas</h3>
+<h3 align="center">Fullstack developer</h3>
 
 - 🌱 I’m currently focused on **React using Ruby on Rails**
 - 👨‍💻 My projects are available at [quirogafacundo.com](quirogafacundo.com)
